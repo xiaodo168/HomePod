@@ -1,7 +1,7 @@
-# NAME: cfnat-ip
-# AUTHOR: qsxazcv
+# NAME: cf-ip
+# AUTHOR: xiaodo168
 # REPO: https://github.com/qsxazcv/domain-rules
-# PT优选列表，来自个人收集
+# PT优选列表，来自谨兮个人收集
 
 
 #PT优选域名
@@ -25,3 +25,21 @@ DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,sunnypt.top
 DOMAIN-SUFFIX,ptcafe.club
+
+#测试版PT优选域名
+DOMAIN-SUFFIX,www.pttime.org
+DOMAIN-SUFFIX,kufei.org
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,www.hddolby.com
+DOMAIN-SUFFIX,ptchina.org
+DOMAIN-SUFFIX,www.haidan.video
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,pandapt.net
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,www.qingwapt.com
+DOMAIN-SUFFIX,hdpt.xyz
+DOMAIN-SUFFIX,wintersakura.net
+DOMAIN-SUFFIX,ptvicomo.net
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,ptlgs.org
