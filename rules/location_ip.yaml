@@ -1,3 +1,8 @@
+# NAME: location_ip
+# AUTHOR: xiaodo168
+# REPO: https://github.com/xiaodo168/HomePod
+# 抖快书定位IP，来自谨兮个人收集
+
 payload:
   # 抖音修改IP
   - DOMAIN-SUFFIX,amemv.com
