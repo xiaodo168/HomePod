@@ -1,7 +1,7 @@
-# NAME: XPTV.yaml
+# NAME: XPTV
 # AUTHOR: xiaodo168
 # REPO: https://github.com/xiaodo168/HomePod
-# 强制代理列表，来自谨兮个人收集
+# 视频直连列表，来自谨兮个人收集
 
 payload:
 #已标注了大部分可直连的地址,遇到无法直连的情况自行调整
