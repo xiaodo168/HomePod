@@ -1,4 +1,7 @@
-# 名称: 直连修正
+# NAME: fix-direct
+# AUTHOR: xiaodo168
+# REPO: https://github.com/xiaodo168/HomePod
+# 直连修正列表，来自谨兮个人收集
 
 payload:
   # DST-PORT
