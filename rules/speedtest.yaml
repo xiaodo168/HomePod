@@ -1,10 +1,8 @@
 # NAME: Speedtest
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:08
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 4
-# TOTAL: 5
+# AUTHOR: xiaodo168
+# REPO: https://github.com/xiaodo168/HomePod
+# 速度测试列表，来自谨兮个人收集
+
 payload:
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,ooklaserver.net
