@@ -635,7 +635,6 @@ DOMAIN,tracker.cinefiles.info
 DOMAIN,t.hddolby.com
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,2xfree.org
-DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,avgv.cc
 DOMAIN-SUFFIX,avistaz.to
@@ -723,6 +722,7 @@ DOMAIN-SUFFIX,agsvpt.cn
 DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,relay01.ptl.gs
 DOMAIN-SUFFIX,ptl.gs
+#DOMAIN-SUFFIX,52pt.site
 
 # 自定义特殊直连规则
 # DOMAIN-SUFFIX,106071.xyz
