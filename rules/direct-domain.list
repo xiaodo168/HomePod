@@ -722,8 +722,7 @@ DOMAIN-SUFFIX,agsvpt.cn
 DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,relay01.ptl.gs
 DOMAIN-SUFFIX,ptl.gs
-#DOMAIN-SUFFIX,52pt.site
-
+DOMAIN,tracker.52pt.site
 # 自定义特殊直连规则
 # DOMAIN-SUFFIX,106071.xyz
 # DOMAIN-SUFFIX,alidns.com
