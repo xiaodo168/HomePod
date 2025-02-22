@@ -1,5 +1,7 @@
-# 规则名称: Emby
-# 规则统计: 165
+# NAME: Emby
+# AUTHOR: xiaodo168
+# REPO: https://github.com/xiaodo168/domain-rules
+# Emby列表，来自谨兮个人收集
 
 DOMAIN,195.201.86.86
 DOMAIN,cc.coemn.com
