@@ -2,7 +2,7 @@
 # AUTHOR: xiaodo168
 # REPO: https://github.com/xiaodo168/HomePod
 # 直连修正列表，来自谨兮个人收集
-
+#这个库要不要无所谓,我已经在强制直连写了,不懂就不要动
 payload:
   # DST-PORT
   - DST-PORT,123
