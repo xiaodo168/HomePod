@@ -1,9 +1,9 @@
-# NAME: pt-domain
+# NAME: cf-domain
 # AUTHOR: xiaodo168
 # REPO: https://github.com/xiaodo168/HomePod
-# pt站点列表，来自谨兮个人收集
+# cf站点列表，来自谨兮个人收集
 
-# PT站点
+# cf站点
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,chdbits
 DOMAIN-KEYWORD,torrent
