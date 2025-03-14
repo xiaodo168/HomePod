@@ -26,8 +26,6 @@ DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,sunnypt.top
 DOMAIN-SUFFIX,ptcafe.club
-
-#测试版PT优选域名
 DOMAIN-SUFFIX,www.pttime.org
 DOMAIN-SUFFIX,kufei.org
 DOMAIN-SUFFIX,hdfans.org
@@ -47,7 +45,7 @@ DOMAIN-SUFFIX,ptlgs.org
 DOMAIN-SUFFIX,pt.keepfrds.com
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,pt.btschool.club
-#新站
+DOMAIN-SUFFIX,www.icc2022.com
 DOMAIN-SUFFIX,ptfans.cc
 DOMAIN-SUFFIX,hspt.club
 DOMAIN-SUFFIX,xingyunge.top
