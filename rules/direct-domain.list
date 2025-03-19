@@ -726,7 +726,7 @@ DOMAIN-SUFFIX,agsvpt.cn
 DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,relay01.ptl.gs
 DOMAIN-SUFFIX,ptl.gs
-DOMAIN,tracker.52pt.site
+# DOMAIN,tracker.52pt.site
 DOMAIN-SUFFIX,ptfans.cc
 DOMAIN-SUFFIX,hspt.club
 DOMAIN-SUFFIX,xingyunge.top
